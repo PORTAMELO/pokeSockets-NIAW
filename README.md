@@ -4,7 +4,7 @@
 <p align="center">
 <h3 align="center">¡Bienvenido a nuestro repositorio!</h3>
 </p>
-<p align="center"> ¡Nos alegra mucho que estés aquí! Por eso intentamos diseñar un ReadMe que fuera muy bonito, para poder contarte un poco de PockeSocketsNIAW </p>
+<p align="center"> ¡Nos alegra mucho que estés aquí! Por eso intentamos diseñar un ReadMe que fuera muy bonito, para poder contarte un poco sobre PockeSocketsNIAW </p>
 
 <p align="center">--------------------       🍄       --------------------       🍄       --------------------       🍄       --------------------       🍄       --------------------</p>
 
