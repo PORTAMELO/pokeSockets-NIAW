@@ -8,5 +8,7 @@
 
 <p align="center">--------------------       🍄       --------------------       🍄       --------------------       🍄       --------------------       🍄       --------------------</p>
 
-<p align="center"> Proyecto de programación del corte número 1 para los estudiantes de Ingeniería de Sistemas del semestre N°3 en el que se busca evaluar Servidores-Sockets-Threads a traves de la realización de un programa con temática Pókemon, especificamente utilizando el concepto de "Pokedex". Propuesto por el ingeniero y profesor Diego Rodriguez Castañeda.</p>
+<p align="center"> PockeSocketsNIAW, Es el proyecto de programación del corte número 1 para los estudiantes de Ingeniería de Sistemas del semestre N°3 en el que se busca evaluar Servidores-Sockets-Threads a traves de la realización de un programa con temática Pokémon, especificamente utilizando el concepto de "Pokedex". Propuesto por el ingeniero y profesor Diego Rodriguez Castañeda.</p>
+
+<h3 align="center"> 😊 ¡Pasemos a los requerimientos! 😊</h3>
 
