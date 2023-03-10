@@ -19,22 +19,32 @@ Todos sabemos que un entrenador Pokémon puede almacenar 6 o menos Pokémons en 
 Para esto, El profesor Oak nos confió a nosotros, NIAW, un equipo de estudiantes de Ingeniería de Sistemas conformado por [PORTAMELO :v](https://github.com/PORTAMELO), [Arekusandora🧛](https://github.com/ArekuInBlueee), [Tomoe🌸](https://github.com/usapanda) y [Nat💙](https://github.com/NatVerB), para elaborar el programa que requiere, el cual debe cumplir con los siguientes requerimientos:
 
 
-- Debe tener un aplicativo cliente el cual hara las veces del almacenamiento del entrenador, con un maximo de 6 pokemons, puede inciar con los 6 o puede iniciar con ninguno.
+- Debe tener un aplicativo cliente, el cual hará las veces del almacenamiento del entrenador, con un máximo de 6 Pokémons. Puede inciar con los 6 o puede iniciar con ninguno.
 
-- El entrenador puede conectarse a su pc (servidor) y transferir criaturas entre su almacenamiento y el pc, y seleccionar en que caja desea guardarlos.
+- El entrenador puede conectarse a su pc (servidor) y transferir criaturas entre su almacenamiento y el pc, Además seleccionar en que caja desea guardarlos.
 
 - La pc no tiene interfaz gráfica, todo se muestra en GUI del cliente, pero ambos sistemas si pueden tener consola para registro de errores y depuración del sistema.
 
-- La pc debe poder recibir hasta 4 conexiones diferentes simultaneas, sin que estas se choquen entre si.
+- La pc debe poder recibir hasta 4 conexiones diferentes simultaneas, sin que estas se choquen entre sí.
 
 - Los datos de los Pokémon son sus estadisticas base, un mote, su nivel, y 4 ataques aleatorios, por facilidad del ejercicio, no tienen que ser necesariamente del mismo tipo que el pokemon.
 
 - El uso de sockets, hilos, y versionamiento de codigo es obligatorio.
 
-- El entrenador puede capturar un nuevo pokemon, es decir puede digitar la información de un pokemon X nuevo y guardarlo en su bolsito si tiene espacio o en el pc si no lo tiene.
+- El entrenador puede capturar un nuevo Pokémon, es decir puede digitar la información de un Pokémon X nuevo y guardarlo en su bolsillo si tiene espacio o en el pc si no lo tiene.
 
-- El entrenador puede solicitar la liberación de una de sus criaturas, lo que hara que desaparesca de todos los sistemas.
+- El entrenador puede solicitar la liberación de una de sus criaturas, lo que hará que desaparesca de todos los sistemas.
 
 - OPCIONAL GUI amigable e intuitiva con el usuario, control de excepciones para cada posible situación anomala.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Bien, ahora que te hemos explicado un poco mas de que va esto, esperamos que te sea de mucha utilidad esta información y que si así lo necesitas, pueda ayudarte cualquier elemento de este repositorio...
+
+Si todavia tienes dudas, puedes consultar nuestro documento [JavaDoc]() del Software, en donde podrás encontrar absolutamente toda la información acerca del programa.
+
+## Hasta Luego 💋
+
+*ReadMe diseñado y redactado por Alejandra Valero*
+
+*Imagenes tomadas de Pinterest*
